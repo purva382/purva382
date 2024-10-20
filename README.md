@@ -20,6 +20,17 @@ Welcome to my GitHub! I'm Purva, an aspiring business analyst with a passion for
 
 ---
 
+## 🛠 Tools & Technologies I Use
+
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Microsoft Azure" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" width="40" height="40"/>
+
+---
+
 ## 💼 **Skills and Tools**
 
 - **Data Analytics**: Power BI, Excel, SQL, Google Analytics
